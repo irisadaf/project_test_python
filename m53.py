@@ -79,5 +79,6 @@
 # X=lambda  t:t**2
 #
 # print(X(5))
-# L=[i**2 for i in range(10)]
-# print(L)
+L=[i**2 for i in range(10)]
+print(L)
+print('hello')
